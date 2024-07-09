@@ -25,14 +25,16 @@ The objective of this project is to perform exploratory data analysis (EDA) on a
    - Provide code snippets and data files for viewers to replicate the analysis.
 
 ### Outcome:
--Female patients tended to schedule more appointments compared to males across different age groups.
--Younger patients (up to age 20) and older patients (above 60) showed higher attendance rates, while middle-aged adults (41-60) had lower attendance rates.
--Patients who received SMS reminders were slightly more likely to attend appointments compared to those who did not.
--Most appointments were scheduled on weekdays, particularly Tuesdays and Wednesdays, with fewer appointments on weekends.
--The dataset had no missing values, simplifying the initial data preparation process.
--There was a weak correlation between certain health conditions (like hypertension) and appointment attendance, suggesting other factors may influence attendance more significantly.
--Initial data cleaning involved dropping unnecessary columns like patient IDs and neighborhood, focusing only on relevant features for analysis.
--These findings provide valuable insights into patient behavior and scheduling patterns within the healthcare dataset, offering a foundation for further analysis or predictive modeling in healthcare management contexts.
+
+- Female patients tended to schedule more appointments compared to males across different age groups.
+- Younger patients (up to age 20) and older patients (above 60) showed higher attendance rates, while middle-aged adults (41-60) had lower attendance rates.
+- Patients who received SMS reminders were slightly more likely to attend appointments compared to those who did not.
+- Most appointments were scheduled on weekdays, particularly Tuesdays and Wednesdays, with fewer appointments on weekends.
+- The dataset had no missing values, simplifying the initial data preparation process.
+- There was a weak correlation between certain health conditions (like hypertension) and appointment attendance, suggesting other factors may influence attendance more significantly.
+- Initial data cleaning involved dropping unnecessary columns like patient IDs and neighborhood, focusing only on relevant features for analysis.
+
+These findings provide valuable insights into patient behavior and scheduling patterns within the healthcare dataset, offering a foundation for further analysis or predictive modeling in healthcare management contexts.
 
 
 
